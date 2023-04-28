@@ -2,12 +2,14 @@ package com.coding.arraysStings;
 
 public class ArrayReverse
 {
-
+    /*
+     * Prgram to Reverse the Array.
+     */
     public static void main(String[] args)
     {
-
+        
         int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-
+        
         // we will use two 'pointers'. One pointer will start from the beginning
         // another one from the back and we will swap their values
         int nLength = array.length - 1;
@@ -38,5 +40,5 @@ public class ArrayReverse
             System.out.print(n);
         }
     }
-
+    
 }
