@@ -1,5 +1,8 @@
 package com.coding.arraysStings;
-
+/*
+ * 
+ * Program to rotate the String
+ */
 public class StringRotation
 {
     public static boolean isRotation(String s1, String s2)

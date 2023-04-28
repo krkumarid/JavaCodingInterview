@@ -1,5 +1,10 @@
 package com.coding.arraysStings;
-
+/*
+ * 
+ * 
+ * 
+ * Program for Zero metrix...
+ */
 public class ZeroMatrix
 {
     public static void setZeros(int[][] matrix)
